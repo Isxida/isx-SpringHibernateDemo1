@@ -44,10 +44,8 @@
 	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/JTA 1.2/jta-1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Commons dbcp/commons-pool-1.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/DOM-4j/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/SLF4J/slf4j-1.7.2/slf4j-log4j12-1.7.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/SLF4J/slf4j-log4j12-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Log4j/slf4j-log4j12-1.4.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Log4j/log4j-1.2.15.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Log4j/slf4j-api-1.5.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Log4j/slf4j-log4j12-1.5.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
