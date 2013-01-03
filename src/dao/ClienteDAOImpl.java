@@ -13,18 +13,18 @@ public class ClienteDAOImpl implements ClienteDAO{
 	@Autowired
 	public SessionFactory sessionF;
 	
-	@Override
+	
 	public void addCliente(Cliente cli) {
 		sessionF.getCurrentSession().save(cli);
 
 	}
 
-	@Override
+	
 	public List<Cliente> listCliente() {
 		return sessionF.getCurrentSession().createQuery("from Clientes").list();
 	}
 
-	@Override
+	
 	public void deleteCliente(Integer id) {
 		
 		Cliente cli = (Cliente) sessionF.getCurrentSession().load(Cliente.class, id);

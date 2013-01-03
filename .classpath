@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0 at Isxida/Desktop">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.aop-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.aspects-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.instrument.tomcat-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.instrument-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.jms-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.oxm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.test-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/org.springframework.web-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/JSTL 1.2/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Common-logging/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Javax jstl/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Javax.persistence/persistence-api-1.0-rev-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Spring MVC 3/spring-tx-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Hibernate 3/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Hibernate 3/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Commons dbcp/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/JTA 1.2/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Commons dbcp/commons-pool-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/DOM-4j/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/SLF4J/slf4j-1.7.2/slf4j-log4j12-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/SLF4J/slf4j-log4j12-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Log4j/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Log4j/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/Desktop/JARS/Log4j/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

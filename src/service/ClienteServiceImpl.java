@@ -19,19 +19,15 @@ public class ClienteServiceImpl implements ClienteService {
 	
 	@Transactional
 	public void addCliente(Cliente cli) {
-		// TODO Auto-generated method stub
 		clienteDao.addCliente(cli);
 	}
-
-	@Transactional
+		
 	public List<Cliente> listCliente() {
-		// TODO Auto-generated method stub
 		return clienteDao.listCliente();
 	}
 
 	@Transactional
 	public void deleteCliente(Integer id) {
-		// TODO Auto-generated method stub
 		clienteDao.deleteCliente(id);
 	}
 

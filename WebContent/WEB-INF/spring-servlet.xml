@@ -17,7 +17,7 @@
         http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
  
     <context:annotation-config />
-    <context:component-scan base-package="controlador" />
+    <context:component-scan base-package="bean" />
  
     <bean id="jspViewResolver"
         class="org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -39,9 +39,9 @@
     <bean id="dataSource"
         class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close"
         p:driverClassName="${jdbc.driverClassName}"
-        p:url="${jdbc.databaseurl}" p:username="${jdbc.username}"
+        p:url="${jdbc.databaseurl}" 
+        p:username="${jdbc.username}"
         p:password="${jdbc.password}" />
- 
  
     <bean id="sessionFactory"
         class="org.springframework.orm.hibernate3.LocalSessionFactoryBean">
@@ -65,8 +65,4 @@
         class="org.springframework.orm.hibernate3.HibernateTransactionManager">
         <property name="sessionFactory" ref="sessionFactory" />
     </bean>
-    <!-- <bean id="ClienteDAO" class="dao.ClienteDAOImpl">
-    </bean>
-    <bean id="ClienteService" class="service.ClienteServiceImpl">
-    </bean> -->
 </beans>
